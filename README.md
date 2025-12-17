@@ -1,4 +1,4 @@
-# 🍣 SushiFast - Application React
+# 🍣 SushiFast
 
 > Application web de présentation des menus sushi développée avec React; Vite et TailwindCSS
 
